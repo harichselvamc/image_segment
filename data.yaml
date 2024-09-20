@@ -4,9 +4,9 @@
 
 # nc: 1
 # names: ['nail']
-train: C:/Users/haric/Downloads/pp/dataset/train/images
-val: C:/Users/haric/Downloads/pp/dataset/valid/images
-test: C:/Users/haric/Downloads/pp/dataset/test/images
+train: /content/image_segment/train/images
+val: /content/image_segment/valid/images
+test: /content/image_segment/test/images
 
 nc: 1
 names: ['nail']
